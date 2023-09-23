@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+    overflow:hidden;
+    position:relative;
+}
+    button{
+        width:120px;
+        height:60px;
+        font-size: 25px;
+    }
+
+div{
+            margin-left: 300px;
+}
+.yo{
+    margin-top: 200px;
+}
+body{
+    background-color:burlywood;
+}
+
